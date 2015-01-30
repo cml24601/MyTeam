@@ -1,0 +1,68 @@
+.navbar-inverse {
+  color: #0000FF;
+  padding-top: 20px;
+  background-color: ##0000FF;
+  font color: white;
+}
+
+.jumbotron {
+	background-color: #0000FF;
+	font color: white;
+	border-style: solid;
+	border color: black;
+}
+
+.jumbotron h2 {
+	color: white;
+}
+
+h1 {
+	color: blue;
+}
+
+#schedule  {
+	background-color: #00006B;
+}
+
+#schedule h1 {
+	color: white;
+}
+
+#schedule th {
+	color: white;
+}
+
+#schedule tbody {
+	background-color: #9494B8;
+}
+
+#roster  {
+	background-color: yellow;
+}
+
+#roster h1 {
+	color: navy;
+	border-color: navy;
+}
+
+#roster th {
+	color: navy;
+	border-color: navy;
+}
+
+#roster tbody {
+	background-color: #9494B8;
+	border-color: navy;
+}
+
+#roster thead {
+	border-color: navy;
+}
+
+#roster tr {
+	border-color: navy;
+}
+
+#justice h2 {
+	font-size: x-large;
+}
